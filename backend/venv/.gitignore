@@ -1,0 +1,6 @@
+node_modules/
+.next/
+cache/
+output/
+__pycache__/
+*.pyc
